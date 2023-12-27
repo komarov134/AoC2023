@@ -8,7 +8,7 @@ public class Main {
 
     static Long solve() {
         try {
-            return new AOC2023Day21Part2().solve();
+            return new AOC2023Day22().solve();
         } catch (Exception e) {
             throw new RuntimeException(e);
         }
